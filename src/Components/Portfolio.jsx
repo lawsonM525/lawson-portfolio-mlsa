@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Tiktok Page where I educate the Computer Science girlies 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I create content to help educate the girlies on Computer Science and the tech industry.",
+    url: "https://www.tiktok.com/@michellexcomputer",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Cryptography Research Paper",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A research paper comparing the speed and security of SHA-256 and SHA-3.",
+    url: "https://drive.google.com/file/d/1wIaa0a_Kx4_Y5isXRsDakcSifD-wIqYw/view",
   },
   {
-    title: "My Resume Site",
+    title: "MBTI Data Analytics Project",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " Data analytics project comparing people's personalities to their birthdays.",
+    url: "https://www.kaggle.com/code/michellelawson/mbti-x-birthday-analysis",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Stock Pitch: Delta Airlines",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " A buy recommendation for Delta Airlines based on a fundamental analysis of the company.",
+    url: "https://drive.google.com/file/d/1OW6sDup_4zfj5I3gpOxsL7V2M3F3iuuG/view?usp=sharing",
   },
 ];
 
