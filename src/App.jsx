@@ -24,19 +24,20 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Michelle Lawson",
+  title: "Educator & Data Analyst",
+  email: "mlawson@smith.edu",
+  gitHub: "lawsonM525",
+  instagram: "michellexcomputer",
+  linkedIn: "michelle-o-lawson",
   medium: "",
   twitter: "microsoft",
-  youTube: "Code",
+  youTube: "UCX8QfeDxljYxetv-eDpz3RQ",
 };
 
-const primaryColor = "#4E567E";
-const secondaryColor = "#D2F1E4";
+// Pink Color Scheme
+const primaryColor = "#FFC0CB";
+const secondaryColor = "#e75480";
 
 const App = () => {
   return (
